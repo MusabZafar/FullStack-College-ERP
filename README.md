@@ -130,6 +130,5 @@ Ensure the following are installed on your system:
 2. Enable **Firestore** and **Storage**.  
 3. Download the Firebase configuration file and place it in the backend project.  
 
----
 
 
