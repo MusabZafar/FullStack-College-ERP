@@ -132,6 +132,4 @@ Ensure the following are installed on your system:
 
 ---
 
-## 💡 Contribution  
-Feel free to fork this repository and submit pull requests for new features or bug fixes. Contributions are always welcome!
 
